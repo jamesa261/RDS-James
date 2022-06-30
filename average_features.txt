@@ -1,0 +1,15 @@
+candidate_attribute_2
+candidate_attribute_3
+candidate_attribute_4
+candidate_attribute_5
+candidate_attribute_8
+age
+candidate_interest_1
+candidate_interest_3
+candidate_interest_4
+candidate_interest_5
+candidate_interest_6
+candidate_interest_7
+candidate_interest_8
+candidate_relative_test_1
+candidate_relative_test_2
